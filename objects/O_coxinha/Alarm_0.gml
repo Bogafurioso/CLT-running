@@ -1,0 +1,1 @@
+instance_create_layer(40,18, "coletaveis", O_coxinha); 

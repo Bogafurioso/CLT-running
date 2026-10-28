@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"So_son_cole",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":0.14002268,
+  "exportDir":"",
+  "name":"So_son_cole",
+  "parent":{
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"So_son_cole.wav",
+  "volume":1.0,
+}
