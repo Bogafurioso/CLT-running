@@ -1,0 +1,1 @@
+draw_text(300, 400, string(global.ponto));

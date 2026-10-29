@@ -1,1 +1,1 @@
-//audio_play_sound(So_fundo, 1, 0);
+global.ponto = 0;
